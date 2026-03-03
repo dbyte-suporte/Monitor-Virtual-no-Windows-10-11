@@ -33,7 +33,7 @@ O monitor virtual mantém o pipeline gráfico ativo.
 
 ## Passo 1 --- Baixar Driver
 
-https://web.archive.org/web/20250101070258/https://www.amyuni.com/downloads/usbmmidd_v2.zip
+https://github.com/dbyte-suporte/Monitor-Virtual-no-Windows-10-11/raw/refs/heads/main/usbmmidd_v2.zip
 
 Extraia para:
 
@@ -249,7 +249,7 @@ A virtual display keeps the graphics pipeline active.
 
 Download:
 
-https://web.archive.org/web/20250101070258/https://www.amyuni.com/downloads/usbmmidd_v2.zip
+https://github.com/dbyte-suporte/Monitor-Virtual-no-Windows-10-11/raw/refs/heads/main/usbmmidd_v2.zip
 
 Extract to:
 
